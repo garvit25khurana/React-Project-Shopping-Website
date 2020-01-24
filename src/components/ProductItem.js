@@ -32,6 +32,7 @@ export default class ProductItem extends React.Component {
 			  <Card style={{ width: '18rem' }}>
 			  <Card.Body>
 			  <Card.Title>{product.name}</Card.Title>
+			  <Card.Title><img src={product.img} width="170px" height="170px"/></Card.Title>
 			  <Card.Text>{product.description}</Card.Text>
 			  <Card.Text><small>price: </small>{product.price}</Card.Text>
 			  <Card.Text><small>Available Quantity: </small>{product.available_quantity}</Card.Text>
