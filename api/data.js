@@ -1,6 +1,5 @@
 const products = [
   {
-    id: 01,
     name: 'Sony Noise Cancelling Headphones',
     img: 'https://images-na.ssl-images-amazon.com/images/I/61D4Z3yKPAL._SL1500_.jpg',
     available_quantity: 5,
@@ -9,7 +8,6 @@ const products = [
   },
 
   {
-    id: 02,
     name: 'JBL Speaker',
     img: 'https://www.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwcc4bce64/JBL_Flip4_Black_Hero.jpg?sw=626&sh=626&sm=fit&sfrm=png',
     available_quantity: 7,
@@ -18,7 +16,6 @@ const products = [
   },
 
   {
-    id: 03,
     name: 'Canon EF 16-35mm lens',
     img: 'https://images-na.ssl-images-amazon.com/images/I/81lYscypdKL._SL1500_.jpg',
     available_quantity: 0,
@@ -27,7 +24,6 @@ const products = [
   },
 
   {
-    id: 04,
     name: 'RICOH Theta Z1 360° Camera',
     img: 'https://images-na.ssl-images-amazon.com/images/I/8113LBHfcML._SY879_.jpg',
     available_quantity: 4,
